@@ -1,4 +1,4 @@
-# 🧠 LeetCode Solutions
+#  LeetCode Solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
@@ -14,37 +14,37 @@
 
 ---
 
-## 🚀 About This Repository
+##  About This Repository
 
 This repository contains my solutions to problems solved on **LeetCode**, primarily written in **Java**.
 
 I'm using this repository to:
 
-- 🧩 Strengthen my problem-solving skills
-- 📚 Master Data Structures & Algorithms
-- ☕ Improve my Java programming
-- 🎯 Prepare for technical interviews
-- 📈 Track my progress consistently
-- 🔍 Learn and compare different approaches
+-  Strengthen my problem-solving skills
+-  Master Data Structures & Algorithms
+-  Improve my Java programming
+-  Prepare for technical interviews
+-  Track my progress consistently
+-  Learn and compare different approaches
 
 Solutions are automatically synced from LeetCode using **LeetHub v2**.
 
 ---
 
-## 📊 Progress
+## Progress
 
 | Difficulty | Solved |
 |:----------:|:------:|
-| 🟢 Easy | `0+` |
-| 🟡 Medium | `0+` |
-| 🔴 Hard | `0+` |
+| Easy | `0+` |
+| Medium | `0+` |
+| Hard | `0+` |
 | **Total** | **0+** |
 
 > This section will grow as I continue solving problems.
 
 ---
 
-## 🗂️ Topics Covered
+## Topics Covered
 
 ### Data Structures
 
@@ -76,18 +76,18 @@ Solutions are automatically synced from LeetCode using **LeetHub v2**.
 
 ---
 
-## 🧩 Selected Problems
+## Selected Problems
 
 | # | Problem | Difficulty | Approach |
 |---|---|:---:|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Brute Force |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | Greedy / String |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Brute Force |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | Greedy / String |
 
 > More solutions will be added as I progress.
 
 ---
 
-## 💡 My Approach
+## My Approach
 
 For each problem, I try to understand the problem before jumping into code.
 
