@@ -8,17 +8,17 @@ I'm currently preparing for **Java Backend / SDE fresher roles** and building pr
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
-- ☕ **Java** — strengthening core Java and problem solving
-- 🌱 **Spring Boot** — REST APIs, backend architecture and application development
-- 🗄️ **SQL & RDBMS** — queries, database design and data modelling
-- 🧠 **DSA** — consistent LeetCode practice
-- 🛠️ Building backend projects to understand real-world development
+- **Java** — strengthening core Java and problem solving
+- **Spring Boot** — REST APIs, backend architecture and application development
+- **SQL & RDBMS** — queries, database design and data modelling
+- **DSA** — consistent LeetCode practice
+- Building backend projects to understand real-world development
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -39,21 +39,21 @@ I'm currently preparing for **Java Backend / SDE fresher roles** and building pr
 
 ---
 
-## 📌 Featured Work
+## Featured Work
 
-### 🧠 LeetCode Solutions
+### LeetCode Solutions
 My ongoing DSA practice in Java, covering patterns such as arrays, hashing, strings, two pointers and SQL.
 
 → [LeetCode__Solutions](https://github.com/raghul1867/LeetCode__Solutions)
 
-### 📝 Notes App
+### Notes App
 An early full-stack learning project where I explored React, APIs, authentication and backend integration.
 
 → [Notes-app](https://github.com/raghul1867/Notes-app)
 
 ---
 
-## 📊 Problem Solving
+## Problem Solving
 
 I use LeetCode to improve my ability to:
 
@@ -67,7 +67,7 @@ I use LeetCode to improve my ability to:
 
 ---
 
-## 🎯 Current Goal
+## Current Goal
 
 > **Become a strong Java Backend Developer and land a software engineering role.**
 
