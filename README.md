@@ -1,4 +1,4 @@
-# Hi, I'm Raghul 👋
+# Hi, I'm Raghul 
 
 ### Java Backend Developer | BCA Student | DSA Enthusiast
 
