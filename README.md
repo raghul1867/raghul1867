@@ -77,10 +77,9 @@ My current focus is simple:
 
 ---
 
-## 📈 Learning in Public
+## Learning in Public
 
 I believe in building consistently rather than trying to learn everything at once.
 
 Every project, problem and mistake is part of the process.
 
-⭐ Thanks for visiting my profile!
