@@ -1,109 +1,86 @@
-#  LeetCode Solutions
+# Hi, I'm Raghul 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-DSA-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sync-LeetHub%20v2-black?style=for-the-badge&logo=github" />
-</p>
+### Java Backend Developer | BCA Student | DSA Enthusiast
 
-<p align="center">
-  A collection of my <b>LeetCode solutions</b>, focused on building strong
-  <b>Data Structures & Algorithms</b> fundamentals through consistent problem solving.
-</p>
+I'm a BCA student at **REVA University, Bengaluru**, focused on building backend applications with **Java and Spring Boot** and strengthening my **Data Structures & Algorithms** skills.
+
+I'm currently preparing for **Java Backend / SDE fresher roles** and building projects to turn what I learn into practical experience.
 
 ---
 
-##  About This Repository
+## 🚀 What I'm Working On
 
-This repository contains my solutions to problems solved on **LeetCode**, primarily written in **Java**.
-
-I'm using this repository to:
-
--  Strengthen my problem-solving skills
--  Master Data Structures & Algorithms
--  Improve my Java programming
--  Prepare for technical interviews
--  Track my progress consistently
--  Learn and compare different approaches
-
-Solutions are automatically synced from LeetCode using **LeetHub v2**.
+- ☕ **Java** — strengthening core Java and problem solving
+- 🌱 **Spring Boot** — REST APIs, backend architecture and application development
+- 🗄️ **SQL & RDBMS** — queries, database design and data modelling
+- 🧠 **DSA** — consistent LeetCode practice
+- 🛠️ Building backend projects to understand real-world development
 
 ---
 
-## Progress
+## 🧰 Tech Stack
 
-| Difficulty | Solved |
-|:----------:|:------:|
-| Easy | `0+` |
-| Medium | `0+` |
-| Hard | `0+` |
-| **Total** | **0+** |
+**Languages**
 
-> This section will grow as I continue solving problems.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
----
+**Backend**
 
-## Topics Covered
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Data Structures
+**Tools**
 
-- Arrays
-- Strings
-- Hashing
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search Trees
-- Heaps / Priority Queues
-- Graphs
-- Tries
-
-### Algorithms
-
-- Two Pointers
-- Sliding Window
-- Binary Search
-- Recursion
-- Backtracking
-- Greedy
-- Dynamic Programming
-- Depth First Search
-- Breadth First Search
-- Sorting
-- Graph Algorithms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-## Selected Problems
+## 📌 Featured Work
 
-| # | Problem | Difficulty | Approach |
-|---|---|:---:|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Brute Force |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | Greedy / String |
+### 🧠 LeetCode Solutions
+My ongoing DSA practice in Java, covering patterns such as arrays, hashing, strings, two pointers and SQL.
 
-> More solutions will be added as I progress.
+→ [LeetCode__Solutions](https://github.com/raghul1867/LeetCode__Solutions)
+
+### 📝 Notes App
+An early full-stack learning project where I explored React, APIs, authentication and backend integration.
+
+→ [Notes-app](https://github.com/raghul1867/Notes-app)
 
 ---
 
-## My Approach
+## 📊 Problem Solving
 
-For each problem, I try to understand the problem before jumping into code.
+I use LeetCode to improve my ability to:
 
-My usual process:
+- Identify algorithmic patterns
+- Analyse time and space complexity
+- Write clean Java solutions
+- Handle edge cases
+- Prepare for technical interviews
 
-```text
-Understand the Problem
-        ↓
-Identify the Pattern
-        ↓
-Think of a Simple Solution
-        ↓
-Analyze Time & Space Complexity
-        ↓
-Implement in Java
-        ↓
-Test Edge Cases
-        ↓
-Optimize if Necessary
+→ [My LeetCode Solutions](https://github.com/raghul1867/LeetCode__Solutions)
+
+---
+
+## 🎯 Current Goal
+
+> **Become a strong Java Backend Developer and land a software engineering role.**
+
+My current focus is simple:
+
+**Java → Spring Boot → SQL → Backend Projects → DSA → Placements**
+
+---
+
+## 📈 Learning in Public
+
+I believe in building consistently rather than trying to learn everything at once.
+
+Every project, problem and mistake is part of the process.
+
+⭐ Thanks for visiting my profile!
